@@ -3,3 +3,7 @@ Open visual studio code and open folder of aws-clodfront-cookie-signer<i class="
 in terminal run cmd "npm install"
 run cmd "node app.js"
 open the postman and use the url to test  "localhost:3000/getSignedCookie"
+aws portal
+--------
+gouuri@gmail.com
+ThankyouG0d
