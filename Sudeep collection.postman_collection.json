@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "855e0922-02e2-46be-9360-6a1bc1f2bf21",
+		"name": "Sudeep collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://d3ml9645k3368n.cloudfront.net/logo.png",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://d3ml9645k3368n.cloudfront.net/logo.png",
+					"protocol": "http",
+					"host": [
+						"d3ml9645k3368n",
+						"cloudfront",
+						"net"
+					],
+					"path": [
+						"logo.png"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
